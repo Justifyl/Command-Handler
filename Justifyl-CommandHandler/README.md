@@ -7,7 +7,8 @@
 </div>
 
 ### If you are you need support on the codes feel free to join the support server!
-+ Help Command (Youtube Video) : https://www.youtube.com/watch?v=9h5W4-hzts4&t=794s&ab_channel=reconlx
++ (Discord Server)  : https://discord.io/justifyl
++ (Youtube Channel) : https://www.youtube.com/channel/UCm8xyV5xnLqXjnsvwnrtkKw
 
 
 # Command Handler
@@ -22,5 +23,5 @@ It should look something like this
 ![node .](https://i.imgur.com/ThSJRmH.png)
 
 # Contacts
--recon#0001 on discord
+-Justifyl 🌙#7902 on discord
 
